@@ -14,3 +14,9 @@ Here are What I'm working on! 👋
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Let's Go!
 -->
+
+<td>
+<td align="center" width="20%"
+    <span><b><center>Git</center></b></span>
+    <img height=65px src="https://github.com/rogerbay/image-public/blob/master/git.png">
+</td>
