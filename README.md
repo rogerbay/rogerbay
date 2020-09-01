@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/rogerbay/rogerbay.svg)](http://hits.dwyl.com/rogerbay/rogerbay)
+
 ### Thank you! 
 
 Here are What I'm working on! 👋
