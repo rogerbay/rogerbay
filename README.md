@@ -19,17 +19,8 @@ Here are What I'm working on! 👋
 <td align="center" width="20%"
     <span><b><center></center></b></span>
     <img height=65px src="https://github.com/rogerbay/image-public/blob/master/git.png">
+      <img height=65px src="https://github.com/rogerbay/image-public/blob/master/vapordroplet.png">
+       <img height=65px src="https://github.com/rogerbay/image-public/blob/master/swiftUp.jpg">
 </td>
 
-<td>
-<td align="center" width="20%"
-    <span><b><center></center></b></span>
-    <img height=65px src="https://github.com/rogerbay/image-public/blob/master/vapordroplet.png">
-</td>
-
-<td>
-<td align="center" width="20%"
-    <span><b><center></center></b></span>
-    <img height=65px src="https://github.com/rogerbay/image-public/blob/master/swiftUp.png">
-</td>
 
