@@ -17,6 +17,6 @@ Here are What I'm working on! 👋
 
 <td>
 <td align="center" width="20%"
-    <span><b><center>Git</center></b></span>
+    <span><b><center></center></b></span>
     <img height=65px src="https://github.com/rogerbay/image-public/blob/master/git.png">
 </td>
