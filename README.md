@@ -1,8 +1,5 @@
 ### Thank you! Here are What I'm working on! 👋
 
-<!--
-**rogerbay/rogerbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Swift 5.3 Server side Vapor 4 and SwiftUI 2.0
