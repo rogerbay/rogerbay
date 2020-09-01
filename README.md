@@ -1,4 +1,7 @@
-### Thank you! Here are What I'm working on! 👋
+### Thank you! 
+
+Here are What I'm working on! 👋
+
 
 Here are some ideas to get you started:
 
