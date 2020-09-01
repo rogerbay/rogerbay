@@ -17,6 +17,7 @@ Here are What I'm working on! 👋
 
 <td>
 <td align="center" width="20%"
+    <img height=65px src="https://github.com/rogerbay/image-public/blob/master/git.png">
       <img height=65px src="https://github.com/rogerbay/image-public/blob/master/vapordroplet.png">
        <img height=65px src="https://github.com/rogerbay/image-public/blob/master/swiftUp.jpg">
 </td>
