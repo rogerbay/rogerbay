@@ -18,6 +18,7 @@ Here are What I'm working on! 👋
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/swiftui2.png"></code>
+<code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/javascript.png"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/vapor2.png"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/xcode.png"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/iOSApple.jpg"></code>
