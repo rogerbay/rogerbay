@@ -5,7 +5,7 @@
 Here are What I'm working on! 👋
 
 
-- 🔭 I’m currently working on ...Swift SwiftUI and Vapor
+- 🔭 I’m currently working on ...Front-end and Back-end Swift and Vapor 
 - 🌱 I’m currently refreshing ...SwiftUI 2.0 and Vapor 4
 - 👯 I’m looking to collaborate on ... iOS development engineering project.
 - 🤔 I’m looking for help with ...any skill as Computer Science.
