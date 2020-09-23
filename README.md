@@ -36,6 +36,6 @@ Here are What I'm working on! 👋
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/developer-sticker.jpg"></code>
+<code><img height="50" src="https://github.com/rogerbay/image-public/blob/developer-sticker.jpg"></code>
 
 
