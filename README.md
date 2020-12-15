@@ -27,6 +27,7 @@ Here are What I'm working on! 👋
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/applewallet.jpg"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/applewatch.jpg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/firebase/firebase-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
