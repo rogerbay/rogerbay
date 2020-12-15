@@ -5,8 +5,8 @@
 Here are What I'm working on! 👋
 
 
-- 🔭 I’m currently working on ...Front-end and Back-end Swift and Vapor 
-- 🌱 I’m currently refreshing ...SwiftUI 2.0 and Vapor 4
+- 🔭 I’m currently working on ...- Build A Twitter Clone With Swift UI | iOS 14 | MVVM | Swift 5 with Direct Messaging
+- 🌱 I’m currently refreshing ...SwiftUI 2.0, Vapor 4, Firebase
 - 👯 I’m looking to collaborate on ... iOS development engineering project.
 - 🤔 I’m looking for help with ...any skill as Computer Science.
 - 💬 Ask me about ...health, food, happiness, etc...
