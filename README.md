@@ -4,7 +4,7 @@
 
 Here are What I'm working on! 👋
 
-- 🔭 I’m currently working on ...Cardano Blockchain, Haskell Programming, Smart contract on Plutus...
+- 🔭 I’m currently working on ...Cardano Blockchain, Haskell Programming, Staking, DEX, Smart contract on Plutus...NFT token.
 - 👯 I’m looking to collaborate on ...Blockchain development engineering project.
 - 🔭 I’m previously working on ...- Build A Twitter Clone With Swift UI | iOS 14 | MVVM | Swift 5 with Direct Messaging
 - 🌱 I’m previously refreshing ...SwiftUI 2.0, Vapor 4, Firebase
