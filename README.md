@@ -20,6 +20,8 @@ Here are What I'm working on! 👋
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/BlockchainTech.jpg"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/SmartContractSolidityLogo.jpg"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/Python.png"></code>
+<code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/SolidityRemix.png"></code>
+<code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/Ganache.png"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/swiftui2.png"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/javascript.png"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/htmlcssjs.jpg"></code>
