@@ -17,8 +17,8 @@ Here are What I'm working on! 👋
 -->
 
 ## Stack I work with
-<code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/Haskell_Plutus.jpg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg"></code>
+<code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/BlockchainTech.jpg"></code>
+<code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/SmartContractSolidityLogo.jpg"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/swiftui2.png"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/javascript.png"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/htmlcssjs.jpg"></code>
@@ -41,6 +41,8 @@ Here are What I'm working on! 👋
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/developer-sticker.jpg"></code>
+<code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/Haskell_Plutus.jpg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg"></code>
 
 
 
