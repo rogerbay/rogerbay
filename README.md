@@ -17,6 +17,7 @@ Here are What I'm working on! 👋
 -->
 
 ## Stack I work with
+<code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/HireABlockchainDeveloper.jpeg"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/BlockchainTech.jpg"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/SmartContractSolidityLogo.jpg"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/Python.png"></code>
