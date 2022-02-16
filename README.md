@@ -19,7 +19,7 @@ Here are What I'm working on! 👋
 ## Stack I work with
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/BlockchainTech.jpg"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/SmartContractSolidityLogo.jpg"></code>
-<code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/Python.jpg"></code>
+<code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/Python.png"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/swiftui2.png"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/javascript.png"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/htmlcssjs.jpg"></code>
