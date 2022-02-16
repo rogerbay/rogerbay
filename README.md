@@ -4,10 +4,10 @@
 
 Here are What I'm working on! 👋
 
-- 🔭 I’m currently working on ...Cardano Blockchain, Haskell Programming, Staking, DEX, Smart contract on Plutus...NFT token.
+- 🔭 I’m currently working on ...Blockchain Technology, Smart Contract (Solidity, Remix...NFT token.
 - 👯 I’m looking to collaborate on ...Blockchain development engineering project.
-- 🔭 I’m previously working on ...- Build A Twitter Clone With Swift UI | iOS 14 | MVVM | Swift 5 with Direct Messaging
-- 🌱 I’m previously refreshing ...SwiftUI 2.0, Vapor 4, Firebase
+- 🔭 I’m previously working on ...- Build A Clone With Swift UI | iOS  | MVVM | Swift  with Direct Messaging
+- 🌱 I’m previously refreshing ...SwiftUI, Vapor, Firebase
 - 👯 I’m looking to collaborate on ... iOS development engineering project.
 - 🤔 I’m looking for help with ...any skill as Computer Science.
 - 💬 Ask me about ...health, food, happiness, etc...
@@ -17,8 +17,6 @@ Here are What I'm working on! 👋
 -->
 
 ## Stack I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/haskell/haskell-vertical.svg"></code>
-<code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/Cardano_ADA.jpg"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/Haskell_Plutus.jpg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/swiftui2.png"></code>
