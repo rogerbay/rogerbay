@@ -4,7 +4,7 @@
 
 Here are What I'm working on! 👋
 
-- 🔭 I’m currently working on ...React Native - Learn Once Write Anwhere, Blockchain Technology, Web3, Smart Contract (Solidity, Remix...NFT token.
+- 🔭 I’m currently working on ...React Native - Learn Once Write Anywhere, Blockchain Technology, Web3, Smart Contract (Solidity, Remix...NFT token.
 - 👯 I’m looking to collaborate on ...Blockchain development engineering project.
 - 🔭 I’m previously working on ...- Build A Clone With Swift UI | iOS  | MVVM | Swift  with Direct Messaging
 - 🌱 I’m previously refreshing ...SwiftUI, Vapor, Firebase
