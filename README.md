@@ -4,11 +4,11 @@
 
 Here are What I'm working on! 👋
 
-- 🔭 I’m currently working on ...React Native - Learn Once Write Anywhere, Blockchain Technology, Web3, Smart Contract (Solidity, Remix...NFT token.
-- 👯 I’m looking to collaborate on ...Blockchain development engineering project.
+- 🔭 I’m currently working on ...Mojo Programming Language modular.com and Cloud Monitoring and Cybersecurity - OpenTelemetry.io
+- 👯 I’m looking to collaborate on ...Mojo Ai and Cybersecurity and Cloud Monitoring engineering project.
 - 🔭 I’m previously working on ...- Build A Clone With Swift UI | iOS  | MVVM | Swift  with Direct Messaging
-- 🌱 I’m previously refreshing ...SwiftUI, Vapor, Firebase
-- 👯 I’m looking to collaborate on ... iOS development engineering project.
+- 🌱 I’m previously refreshing ...Mojo, Pythong, ML, LLVM, Data Science and Cubersecurity
+- 👯 I’m looking to collaborate on ... Mojo development engineering project and/or Cybersecurity and Cloud Monitoring
 - 🤔 I’m looking for help with ...any skill as Computer Science.
 - 💬 Ask me about ...health, food, happiness, etc...
 - 📫 How to reach me: ...Here you found me!
