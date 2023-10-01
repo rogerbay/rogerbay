@@ -18,6 +18,7 @@ Here are What I'm working on! 👋
 
 ## Stack I work with
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/Mojo.png"></code>
+<code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/OTel.png"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/HireABlockchainDeveloper.jpeg"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/react-native.png"></code>
 <code><img height="50" src="https://github.com/rogerbay/image-public/blob/master/react_native_vs_native_apps.png"></code>
